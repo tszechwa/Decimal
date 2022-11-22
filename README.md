@@ -1,4 +1,3 @@
-# Decimal
 ![DECIMAL](./images/decimal.jpeg)
 
 **The project is a native implementation of the '__int128' or 'Decimal' data type from the c# language.**
